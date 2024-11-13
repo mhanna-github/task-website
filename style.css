@@ -160,10 +160,10 @@ footer::before {
   position: absolute;
   top: 20%;
   left: 51.3%;
-  transform: translate(-50%, -50%); /* Center the rectangle */
-  width: 13px; /* Rectangle width */
-  height: 27px; /* Rectangle height */
-  background-color: #D9D9D9; /* Rectangle color */
+  transform: translate(-50%, -50%); 
+  width: 13px; 
+  height: 27px; 
+  background-color: #D9D9D9; 
 }
 
 .footer__text {
