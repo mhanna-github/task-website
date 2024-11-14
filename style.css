@@ -45,6 +45,9 @@ table {
 }
 
 /*--------------------------------------------------*/
+a {
+  cursor: pointer;
+}
 
 body {
   background-color: #D74949;
